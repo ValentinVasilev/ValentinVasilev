@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Valentin Vasilev
+- 👋 Hi, I’m @Valentin Vasilev.
 - 👀 I’m interested in developing Web Applications and pushing myself as developer.
-- 🌱 I’m currently learning Java Script/ASP.NET Core (Full Stack) 
+- 🌱 I’m currently learning Java Script/ASP.NET Core (Full Stack).
 - 💞️ I’m looking to collaborate on every project thats ready to handle intern/junior full stack web developer.
 - 📫 You can reach me via Email posted in my account.
 
